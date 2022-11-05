@@ -1,4 +1,4 @@
-# Predicting-urinary-tract-infections-with-machine-learning
+# Predicting urinary tract infections in the emergency departmentwith machine learning
 1. Go over data dictionary
 
 2. Perform exploratory data analysis (EDA) for continuous and categorical features
